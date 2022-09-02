@@ -17,13 +17,13 @@ title: Prerak Garg
 email: prerakgarg@ufl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://prerakgarg07.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prerakgarg
 github_username:  prerakgarg07
 
-# Build settings
+# Build settings  
 markdown: kramdown
 theme: minima
 plugins:
